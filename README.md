@@ -1,0 +1,2 @@
+# nav
+static navigate website
